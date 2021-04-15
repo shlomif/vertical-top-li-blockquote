@@ -1,22 +1,9 @@
 ﻿body{padding: 2em; font-family:Arial, Sans-Serif;}
-table.cv{width:100%;border:none}
-table.cv td{vertical-align:top}
-.news_item,.indent{margin-left:3em}
-ul.noindent{margin-left:0}
-.center{text-align:center}
-table.center{margin-left:auto;margin-right:auto}
 .bless{border:none}
 .hide{display:none}
-.hebrew{direction:rtl;padding-right:0.75cm;text-align:right}
 .english{direction:ltr;font-family:Helvetica, sans-serif;text-align:left}
 p.desc{margin-left:3em}
 blockquote{border:grey thin solid;padding:0.5em;margin-left:0.5em;}
-.cc{border-width:0;margin-bottom:0.5em}
-.story [lang^="en"]{text-align:left;direction:ltr}
-.aphorisms blockquote{margin-left:3em}
-.sub_section{margin-left:3em}
-.hebrew .page_toc{clear:left}
-h2.facts,h2#facts,h3.facts,h3#facts{clear:both}
 ol.plain{list-style:none}
 .small{font-size:0.8em}
 *:focus{outline:red solid 2px}
