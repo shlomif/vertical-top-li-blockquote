@@ -142,11 +142,6 @@ img.max_width{max-width:99%;height:auto}
 img.max_width.h6{float:right;margin:0.3em}
 #navbar img{max-width:200px;height:auto}
 #navbar iframe{max-width:99%;height:auto}
-img.bizcard{background-color:white;border:0.5em black solid;border-radius:0.35em;max-width:80%}
-.read-more,.read-less{display:block;margin-top:2em}
-body.self_link .selfl{display:none}
-body.self_link h1:hover .selfl,body.self_link h2:hover .selfl,body.self_link h3:hover .selfl,body.self_link h4:hover .selfl,body.self_link h5:hover .selfl,body.self_link h6:hover .selfl{display:inline}
-body.self_link h1:hover .selfl a,body.self_link h2:hover .selfl a,body.self_link h3:hover .selfl a,body.self_link h4:hover .selfl a,body.self_link h5:hover .selfl a,body.self_link h6:hover .selfl a{margin-left:0.5em;text-decoration:none;color:black}
 .code_block pre{border:thin black solid;padding:1em;background-color:white}
 .sub_menu ul.nm_main{background:url("./images/vline.png") repeat-y scroll 0 0 transparent;list-style-type:none;margin:0;padding:0}
 .sub_menu ul.nm_main ul{background:url("./images/vline.png") repeat-y scroll 0 0 transparent;list-style-type:none;margin:0;padding:0;margin-left:10px}
