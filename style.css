@@ -1,4 +1,4 @@
-﻿body{font-family:Arial, Sans-Serif;}
+﻿body{padding: 2em; font-family:Arial, Sans-Serif;}
 table.cv{width:100%;border:none}
 table.cv td{vertical-align:top}
 .news_item,.indent{margin-left:3em}
@@ -23,8 +23,6 @@ ol.plain{list-style:none}
 .small{font-size:0.8em}
 *:focus{outline:red solid 2px}
 #header{padding-top:80px}
-body #container-all{display:grid;grid-template-columns:repeat(5, 3fr);position:relative}
 #faux{background-color:white;}
-body{margin:0;padding:0}
 @media (max-width: 991px){body.overflow_all *{overflow:auto}
 }
