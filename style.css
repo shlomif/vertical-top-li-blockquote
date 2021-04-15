@@ -63,9 +63,6 @@ p.desc{margin-left:3em}
 .revhistory th{vertical-align:top;text-align:left}
 .revhistory td{border:1.5pt black solid;padding:2pt;text-align:left;vertical-align:top}
 .revhistory th{border:1.5pt black solid;padding:2pt}
-table.visible,.visible>table{border:#286 medium solid}
-.visible td{border:#689 thin solid;padding:0.2em 0.2em 1em 0.2em;vertical-align:top}
-.visible th{border:#689 thin solid;font-weight:bold;padding:0.2em 0.2em 1em 0.2em;vertical-align:top}
 .article h4,.article h5,.article h6{margin-top:8pt;margin-bottom:0.7cm}
 .article h2{text-decoration:underline}
 .article h3{text-decoration:underline}
@@ -145,10 +142,6 @@ ol.plain{list-style:none}
 .no-underline{text-decoration:none}
 img.rindolf{float:right;margin:0 2em}
 .evilphish{border:0;float:right;margin:0.5em;max-width:70%}
-.img_align{display:flex}
-.img_align>.text{vertical-align:top;order:2}
-.img_align>img{vertical-align:top;max-height:300px}
-.img_align:after{content:"";order:1}
 *:focus{outline:red solid 2px}
 .lim_width iframe{max-width:99%;height:auto}
 img.max_width{max-width:99%;height:auto}
