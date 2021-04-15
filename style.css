@@ -18,14 +18,8 @@ table.cv td{vertical-align:top}
 a.back_to_faq{padding:0.3em;float:right}
 a.back_to_faq:after{content:" ]"}
 a.back_to_faq:before{content:"[ "}
-h2{font-size:160%}
-h3{font-size:140%}
-h4{font-size:130%}
-h5{font-size:120%}
-h6{font-size:110%}
 :link:hover,:visited:hover,img.highlight:hover,.nav_links img:hover,.bk2hp:hover,.patreon:hover{background-color:#90ee90}
 .navbar.novis{display:none;grid-column:0 / 0}
-#show_navbar{padding-top:1em;padding-bottom:1em;font-size:150%;width:100%}
 #nav_menu>ul{padding-left:0;margin-left:0.3em}
 #nav_menu>ul ul{padding-left:0;margin-left:1.5em}
 .nav_links{text-align:center;padding-left:0;padding-top:0}
@@ -56,13 +50,6 @@ div.bordered,section.bordered{border:solid green medium;margin-top:1em;overflow:
 .search img,.elsew_on_web img{margin-left:auto;margin-right:auto;text-align:center}
 .search p,.elsew_on_web p{margin:.5em}
 .search>ul,.elsew_on_web>ul{padding-left:1.3em}
-.about_author{border:1.5pt solid #207020;margin-bottom:0.5cm;margin-left:auto;margin-right:auto;padding:0.5em;margin-top:1em}
-.about_author h2{font-size:large;font-weight:bold}
-.about_author img{margin-left:auto;margin-right:auto;text-align:center}
-.about_author p{margin:.5em}
-.about_author img{margin-top:.5em}
-.about_author p.sep{border-top:1.5pt solid #207020;margin:0;padding:.5em}
-.about_author:hover{background-color:#ceecf5;border-radius:5px}
 .hebrew{direction:rtl;padding-right:0.75cm;text-align:right}
 .english{direction:ltr;font-family:Helvetica, sans-serif;text-align:left}
 .hilight .l,p.hilight{font-size:x-large}
@@ -80,9 +67,6 @@ p.desc{margin-left:3em}
 .revhistory th{vertical-align:top;text-align:left}
 .revhistory td{border:1.5pt black solid;padding:2pt;text-align:left;vertical-align:top}
 .revhistory th{border:1.5pt black solid;padding:2pt}
-.self_picture{margin:2em;max-width:80%}
-.self_picture.heb{float:left}
-.self_picture.eng{float:right}
 table.visible,.visible>table{border:#286 medium solid}
 .visible td{border:#689 thin solid;padding:0.2em 0.2em 1em 0.2em;vertical-align:top}
 .visible th{border:#689 thin solid;font-weight:bold;padding:0.2em 0.2em 1em 0.2em;vertical-align:top}
@@ -130,10 +114,6 @@ article.story p.tagline,section.story p.tagline{color:#7d3b5f;font-size:120%;fon
 .facts_logo.in_soviet_russia,.facts_logo.windows_update,.facts_logo.xslt{width:150px}
 .facts_logo.xslt{margin-bottom:10em}
 .facts_wrap .desc{padding-top:1.5em}
-.main_facts_list{padding:0}
-.main_facts_list li{padding-left:0.5em;margin-left:0.5em}
-.main_facts_list li table.info{margin-left:2em}
-.selina.abstract{margin-bottom:50px}
 .aphorisms article{border:2pt solid darkgreen;padding:1em;margin-bottom:2em;overflow:hidden;border-radius:10px}
 .aphorisms article:hover{border-color:#787}
 .screenplay.read,.docbook_formats{border:2pt solid darkgreen;padding:1em;margin-bottom:2em;overflow:hidden;border-radius:10px}
@@ -217,14 +197,8 @@ body{background:#01698f;padding:1em}
 body #container-all{display:grid;grid-template-columns:repeat(5, 3fr);position:relative}
 body #main{grid-column:2 / 6;grid-row:2}
 body #main.novis{grid-column:1 / 6}
-body #show_navbar{grid-column:1 / 6;grid-row:1}
-body #show_navbar *{vertical-align:middle}
-body #show_navbar.on{grid-column:1}
-body #show_navbar .logo{max-height:2em;width:auto}
 body #navbar{grid-row:2;grid-column:1}
 body #navbar.novis{display:none}
-body #navbar,body #show_navbar{padding:1em}
-body #navbar.novis,body #show_navbar.novis{width:0%;padding:0}
 #faux{background-color:white;}
 .facts_lists_list section.facts::after{display:block;content:"";clear:left}
 body{margin:0;padding:0}
