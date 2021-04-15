@@ -12,24 +12,12 @@ table.center{margin-left:auto;margin-right:auto}
 .note h2{background:transparent}
 div.bordered,section.bordered{border:solid green medium;margin-top:1em;overflow:hidden;padding:0.5em}
 .bless{border:none}
-.banner img,.banner div,.banner iframe{vertical-align:middle}
 #sect_menu_wrapper.novis{display:none}
-.toggle_sect_menu{border:2pt solid black;padding:0.2em 0.5em;border-radius:5px;background-color:PaleGoldenRod;border-color:black;color:black;float:right;text-decoration:none}
-.toggle_sect_menu:hover{border:2pt solid black;padding:0.2em 0.5em;border-radius:5px;background-color:yellow;border-color:red;cursor:pointer}
 .hide{display:none}
-.svg_center{display:block;margin-left:auto;margin-right:auto;text-align:center}
-.search,.elsew_on_web{border:1.5pt solid #207020;margin-bottom:0.5cm;margin-left:auto;margin-right:auto;padding:0.5em}
-.search h2,.elsew_on_web h2{font-size:large;font-weight:bold}
-.search img,.elsew_on_web img{margin-left:auto;margin-right:auto;text-align:center}
-.search p,.elsew_on_web p{margin:.5em}
-.search>ul,.elsew_on_web>ul{padding-left:1.3em}
 .hebrew{direction:rtl;padding-right:0.75cm;text-align:right}
 .english{direction:ltr;font-family:Helvetica, sans-serif;text-align:left}
 .hilight .l,p.hilight{font-size:x-large}
 .hilight dd{margin-bottom:0.5em;margin-top:0.5em}
-.skip_to_main{font-size:x-large}
-.skip_to_main>a:after{content:" ⬇ ] "}
-.skip_to_main>a:before{content:" [ ⬇ "}
 p.desc{margin-left:3em}
 .invisible,.invisible a{height:1px;left:-10000px;overflow:hidden;position:absolute;top:auto;width:1px}
 .invisible:focus,.invisible a:focus{height:auto;position:static;width:auto}
@@ -76,7 +64,6 @@ ol.plain{list-style:none}
 img.max_width{max-width:99%;height:auto}
 img.max_width.h6{float:right;margin:0.3em}
 #header{padding-top:80px}
-.banner{height:80px}
 body #container-all{display:grid;grid-template-columns:repeat(5, 3fr);position:relative}
 #faux{background-color:white;}
 body{margin:0;padding:0}
