@@ -3,8 +3,6 @@ table.cv{width:100%;border:none}
 table.cv td{vertical-align:top}
 #nav_menu>ul{padding-left:0;margin-left:0.3em}
 #nav_menu>ul ul{padding-left:0;margin-left:1.5em}
-.nav_links{text-align:center;padding-left:0;padding-top:0}
-.nav_links li{display:inline;list-style-type:none;padding-right:0.2em;padding-top:0}
 .news_item,.indent{margin-left:3em}
 div.rightalign{text-align:right}
 ul.noindent{margin-left:0}
