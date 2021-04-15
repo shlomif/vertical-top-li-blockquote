@@ -47,9 +47,6 @@ p.desc{margin-left:3em}
 .revhistory th{vertical-align:top;text-align:left}
 .revhistory td{border:1.5pt black solid;padding:2pt;text-align:left;vertical-align:top}
 .revhistory th{border:1.5pt black solid;padding:2pt}
-.article h4,.article h5,.article h6{margin-top:8pt;margin-bottom:0.7cm}
-.article h2{text-decoration:underline}
-.article h3{text-decoration:underline}
 .vercon{color:#8a2be2}
 .designs{border-collapse:collapse;overflow:hidden}
 .designs th{vertical-align:top;text-align:left}
@@ -67,10 +64,6 @@ blockquote{border:grey thin solid;padding:0.5em;margin-left:0.5em;}
 .articles_list p{margin-left:2em}
 .cc{border-width:0;margin-bottom:0.5em}
 .story [lang^="en"]{text-align:left;direction:ltr}
-article.story,section.story{border-radius:5px;border:3px solid black;clear:right;margin-bottom:2em;margin-top:0.5em;padding:0.5em}
-article.story::after,section.story::after{display:block;content:"";clear:right}
-article.story:hover,section.story:hover{border-color:darkgreen}
-article.story p.tagline,section.story p.tagline{color:#7d3b5f;font-size:120%;font-style:italic;margin-left:2em}
 .aphorisms blockquote{margin-left:3em}
 .sub_section{margin-left:3em}
 .art_logo.better_scm{border:5pt green solid;margin-bottom:1em;border-radius:3pt}
@@ -80,8 +73,6 @@ article.story p.tagline,section.story p.tagline{color:#7d3b5f;font-size:120%;fon
 .facts_logo.in_soviet_russia,.facts_logo.windows_update,.facts_logo.xslt{width:150px}
 .facts_logo.xslt{margin-bottom:10em}
 .facts_wrap .desc{padding-top:1.5em}
-.aphorisms article{border:2pt solid darkgreen;padding:1em;margin-bottom:2em;overflow:hidden;border-radius:10px}
-.aphorisms article:hover{border-color:#787}
 .screenplay.read,.docbook_formats{border:2pt solid darkgreen;padding:1em;margin-bottom:2em;overflow:hidden;border-radius:10px}
 .screenplay.read:hover,.docbook_formats:hover{border-color:#787}
 .shlomif_tips>.entry{border:3px darkgreen solid;margin-bottom:1em;padding:0.5em}
@@ -106,8 +97,6 @@ section.fancy_sects>p:last-child,section.fancy_sects>ul:last-child>li:last-child
 .fancy_sects ol,.fancy_sects ul{margin-left:2em;padding-left:0}
 h2.facts,h2#facts,h3.facts,h3#facts{clear:both}
 .facts_sources>header{clear:both}
-.bits_stories_list article{margin-bottom:3em}
-.bits_stories_list article>p{margin-left:2em}
 .markdown img{margin:1em}
 .limit_imgs_width img,.lim_width img{max-width:90%}
 .limit_imgs_width pre,.lim_width pre{overflow:auto}
