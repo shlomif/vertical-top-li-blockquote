@@ -31,13 +31,10 @@ blockquote{border:grey thin solid;padding:0.5em;margin-left:0.5em;}
 .sub_section{margin-left:3em}
 .art_logo.better_scm{border:5pt green solid;margin-bottom:1em;border-radius:3pt}
 .hebrew .page_toc{clear:left}
-.cv_highlights{font-size:120%}
-
 h2.facts,h2#facts,h3.facts,h3#facts{clear:both}
 ol.plain{list-style:none}
 .small{font-size:0.8em}
 *:focus{outline:red solid 2px}
-.lim_width iframe{max-width:99%;height:auto}
 img.max_width{max-width:99%;height:auto}
 img.max_width.h6{float:right;margin:0.3em}
 #header{padding-top:80px}
