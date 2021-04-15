@@ -19,19 +19,6 @@ div.bordered,section.bordered{border:solid green medium;margin-top:1em;overflow:
 p.desc{margin-left:3em}
 .invisible,.invisible a{height:1px;left:-10000px;overflow:hidden;position:absolute;top:auto;width:1px}
 .invisible:focus,.invisible a:focus{height:auto;position:static;width:auto}
-.about_site{border-bottom:green solid 3pt;border-left:green solid 2pt;border-right:green solid 2pt;margin-left:1em;margin-right:10pt}
-.about_site h2{margin-top:0;background-color:green;color:white;padding:5px;padding-bottom:3px}
-.about_site p,.about_site h3{margin-left:0.5em;margin-right:0.5em;margin-top:0}
-.revhistory{border-collapse:collapse;overflow:hidden}
-.revhistory th{vertical-align:top;text-align:left}
-.revhistory td{border:1.5pt black solid;padding:2pt;text-align:left;vertical-align:top}
-.revhistory th{border:1.5pt black solid;padding:2pt}
-.vercon{color:#8a2be2}
-.designs{border-collapse:collapse;overflow:hidden}
-.designs th{vertical-align:top;text-align:left}
-.designs td{vertical-align:top;text-align:left;border:1.5pt black solid;padding:2pt}
-.designs th{border:1.5pt black solid;padding:2pt}
-.designs img{background-color:white;border:none}
 blockquote{border:grey thin solid;padding:0.5em;margin-left:0.5em;}
 .fortune blockquote{display:block}
 #disqus_thread{clear:right}
