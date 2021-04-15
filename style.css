@@ -68,24 +68,16 @@ blockquote{border:grey thin solid;padding:0.5em;margin-left:0.5em;}
 .sub_section{margin-left:3em}
 .art_logo.better_scm{border:5pt green solid;margin-bottom:1em;border-radius:3pt}
 .story_logo,.screenplay_image{margin-left:1em;margin-bottom:1em;margin-right:1em;margin-top:1em;float:right;max-width:80%}
-.story_logo.buffy_few_good,.story_logo.terminator_liberation,.screenplay_image.buffy_few_good,.screenplay_image.terminator_liberation{width:200px}
 .facts_logo{margin-left:1em;margin-bottom:1em;margin-right:1em;margin-top:1em;float:left}
 .facts_logo.in_soviet_russia,.facts_logo.windows_update,.facts_logo.xslt{width:150px}
 .facts_logo.xslt{margin-bottom:10em}
 .facts_wrap .desc{padding-top:1.5em}
-.screenplay.read,.docbook_formats{border:2pt solid darkgreen;padding:1em;margin-bottom:2em;overflow:hidden;border-radius:10px}
-.screenplay.read:hover,.docbook_formats:hover{border-color:#787}
-.shlomif_tips>.entry{border:3px darkgreen solid;margin-bottom:1em;padding:0.5em}
-div.abstract.towtf,div.abstract.pope{border-bottom:3px darkgreen solid;border-top:3px darkgreen solid;margin-bottom:1em;overflow:hidden}
 .hebrew .page_toc{clear:left}
 .side_toc div.page_toc,.side_toc nav.page_toc,.screenplay_style div.page_toc,.screenplay_style nav.page_toc{border-bottom-left-radius:10px;border-bottom:black solid 3px;border-left:black solid 3px;clear:right;float:right;font-size:85%;margin-left:1em;max-width:25em;padding-bottom:0.5em;padding-left:0.5em;width:27%}
 .side_toc div.page_toc li,.side_toc div.page_toc ul,.side_toc nav.page_toc li,.side_toc nav.page_toc ul,.screenplay_style div.page_toc li,.screenplay_style div.page_toc ul,.screenplay_style nav.page_toc li,.screenplay_style nav.page_toc ul{margin-left:0;margin-right:0;padding-left:0;padding-right:0}
 .side_toc div.page_toc ul,.side_toc nav.page_toc ul,.screenplay_style div.page_toc ul,.screenplay_style nav.page_toc ul{margin-left:1em;margin-right:1em}
 .side_toc div.page_toc a,.side_toc nav.page_toc a,.screenplay_style div.page_toc a,.screenplay_style nav.page_toc a{word-break:normal}
-.death_star_frame{border:1.5pt solid #dd6666;margin-bottom:1em;margin-top:1em;padding:1em;border-radius:5px}
-.death_star_frame .bold{font-weight:400}
 .cv_highlights{font-size:120%}
-.who_is_qoheleth .screenplay_image,.terminator_liberation .screenplay_image{float:none;margin-left:1em;margin-bottom:1em}
 
 section.fancy_sects{margin-bottom:2em;margin-top:2em;margin-left:0.5em;padding-left:1em;border-left:black solid 3px;padding-bottom:.3em;padding-top:.3em}
 section.fancy_sects:hover{border-left-color:#555555}
