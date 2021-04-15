@@ -5,10 +5,6 @@ table.cv td{vertical-align:top}
 .bk2hp{border:0;padding:15px;height:140px;max-width:90%}
 .lim_width .bk2hp{margin-bottom:1.5em}
 .patreon{border:0;height:40px;max-width:90%}
-.main,main{padding:1em}
-.main img,main img{margin-right:1em}
-.main li,main li{margin-top:0.25em;margin-bottom:0.25em}
-.main .hebrew ul li,main .hebrew ul li{list-style-type:disc}
 .faq img.faq_float,.indiv_nodes_wrapper img.faq_float,.screenplay img.faq_float{float:right;margin:0 2em}
 .faq header,.indiv_nodes_wrapper header,.screenplay header{padding-bottom:1em}
 .faq header>h2,.faq header>h3,.faq header>h4,.indiv_nodes_wrapper header>h2,.indiv_nodes_wrapper header>h3,.indiv_nodes_wrapper header>h4,.screenplay header>h2,.screenplay header>h3,.screenplay header>h4{display:inline}
@@ -172,8 +168,6 @@ footer p,.footer p,#footer p{clear:left}
 .banner{height:80px}
 pre{overflow-wrap:break-word;text-align:justify;direction:ltr;overflow:auto}
 body #container-all{display:grid;grid-template-columns:repeat(5, 3fr);position:relative}
-body #main{grid-column:2 / 6;grid-row:2}
-body #main.novis{grid-column:1 / 6}
 body #navbar{grid-row:2;grid-column:1}
 body #navbar.novis{display:none}
 #faux{background-color:white;}
