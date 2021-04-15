@@ -1,16 +1,6 @@
 ﻿body{font-family:Arial, Sans-Serif;}
 table.cv{width:100%;border:none}
 table.cv td{vertical-align:top}
-.main_text{clear:left}
-.bk2hp{border:0;padding:15px;height:140px;max-width:90%}
-.lim_width .bk2hp{margin-bottom:1.5em}
-.patreon{border:0;height:40px;max-width:90%}
-.faq img.faq_float,.indiv_nodes_wrapper img.faq_float,.screenplay img.faq_float{float:right;margin:0 2em}
-.faq header,.indiv_nodes_wrapper header,.screenplay header{padding-bottom:1em}
-.faq header>h2,.faq header>h3,.faq header>h4,.indiv_nodes_wrapper header>h2,.indiv_nodes_wrapper header>h3,.indiv_nodes_wrapper header>h4,.screenplay header>h2,.screenplay header>h3,.screenplay header>h4{display:inline}
-.faq header a.indiv_node,.indiv_nodes_wrapper header a.indiv_node,.screenplay header a.indiv_node{padding:0.3em;float:right}
-.faq header a.indiv_node:after,.indiv_nodes_wrapper header a.indiv_node:after,.screenplay header a.indiv_node:after{content:" ]"}
-.faq header a.indiv_node:before,.indiv_nodes_wrapper header a.indiv_node:before,.screenplay header a.indiv_node:before{content:"[ "}
 .navbar.novis{display:none;grid-column:0 / 0}
 #nav_menu>ul{padding-left:0;margin-left:0.3em}
 #nav_menu>ul ul{padding-left:0;margin-left:1.5em}
