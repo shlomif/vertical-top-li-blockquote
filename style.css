@@ -13,10 +13,6 @@ table.center{margin-left:auto;margin-right:auto}
 div.bordered,section.bordered{border:solid green medium;margin-top:1em;overflow:hidden;padding:0.5em}
 .bless{border:none}
 .banner img,.banner div,.banner iframe{vertical-align:middle}
-.books{background-image:url("./images/grsites-beige049-modified.png");border:4pt double #e02030;padding-bottom:0.5em;padding-left:0.5em;padding-right:0.5em;padding-top:0.5em}
-.books dt{background-color:#ffffbb;border:1.5pt solid #ffa500;padding-bottom:0.25em;padding-left:0.3em;padding-right:0.3em;padding-top:0.2em}
-.books dd{background-color:#e0ffe0;border:1pt solid black;margin-bottom:0.7em;margin-left:0.5em;margin-right:0.5em;margin-top:0.7em;padding-bottom:0.3em;padding-left:0.5em;padding-right:0.5em;padding-top:0.3em}
-.books dd p{margin-bottom:7pt;margin-top:3pt}
 #sect_menu_wrapper.novis{display:none}
 .toggle_sect_menu{border:2pt solid black;padding:0.2em 0.5em;border-radius:5px;background-color:PaleGoldenRod;border-color:black;color:black;float:right;text-decoration:none}
 .toggle_sect_menu:hover{border:2pt solid black;padding:0.2em 0.5em;border-radius:5px;background-color:yellow;border-color:red;cursor:pointer}
@@ -71,21 +67,16 @@ h2.facts,h2#facts,h3.facts,h3#facts{clear:both}
 .facts_sources>header{clear:both}
 .markdown img{margin:1em}
 .limit_imgs_width img,.lim_width img{max-width:90%}
-.limit_imgs_width pre,.lim_width pre{overflow:auto}
 @media (max-width: 991px){.limit_imgs_width.my_rpf .page_toc *,.lim_width.my_rpf .page_toc *{overflow:hidden}
 }
-h2.puz_sol{margin-top:50em}
 ol.plain{list-style:none}
 .small{font-size:0.8em}
-.no-underline{text-decoration:none}
-img.rindolf{float:right;margin:0 2em}
 *:focus{outline:red solid 2px}
 .lim_width iframe{max-width:99%;height:auto}
 img.max_width{max-width:99%;height:auto}
 img.max_width.h6{float:right;margin:0.3em}
 #header{padding-top:80px}
 .banner{height:80px}
-pre{overflow-wrap:break-word;text-align:justify;direction:ltr;overflow:auto}
 body #container-all{display:grid;grid-template-columns:repeat(5, 3fr);position:relative}
 #faux{background-color:white;}
 body{margin:0;padding:0}
