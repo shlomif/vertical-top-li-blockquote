@@ -10,8 +10,6 @@ table.center{margin-left:auto;margin-right:auto}
 .hebrew{direction:rtl;padding-right:0.75cm;text-align:right}
 .english{direction:ltr;font-family:Helvetica, sans-serif;text-align:left}
 p.desc{margin-left:3em}
-.invisible,.invisible a{height:1px;left:-10000px;overflow:hidden;position:absolute;top:auto;width:1px}
-.invisible:focus,.invisible a:focus{height:auto;position:static;width:auto}
 blockquote{border:grey thin solid;padding:0.5em;margin-left:0.5em;}
 .cc{border-width:0;margin-bottom:0.5em}
 .story [lang^="en"]{text-align:left;direction:ltr}
