@@ -1,7 +1,6 @@
 ﻿body{font-family:Arial, Sans-Serif;}
 table.cv{width:100%;border:none}
 table.cv td{vertical-align:top}
-.navbar.novis{display:none;grid-column:0 / 0}
 #nav_menu>ul{padding-left:0;margin-left:0.3em}
 #nav_menu>ul ul{padding-left:0;margin-left:1.5em}
 .nav_links{text-align:center;padding-left:0;padding-top:0}
@@ -67,11 +66,6 @@ blockquote{border:grey thin solid;padding:0.5em;margin-left:0.5em;}
 .aphorisms blockquote{margin-left:3em}
 .sub_section{margin-left:3em}
 .art_logo.better_scm{border:5pt green solid;margin-bottom:1em;border-radius:3pt}
-.story_logo,.screenplay_image{margin-left:1em;margin-bottom:1em;margin-right:1em;margin-top:1em;float:right;max-width:80%}
-.facts_logo{margin-left:1em;margin-bottom:1em;margin-right:1em;margin-top:1em;float:left}
-.facts_logo.in_soviet_russia,.facts_logo.windows_update,.facts_logo.xslt{width:150px}
-.facts_logo.xslt{margin-bottom:10em}
-.facts_wrap .desc{padding-top:1.5em}
 .hebrew .page_toc{clear:left}
 .side_toc div.page_toc,.side_toc nav.page_toc,.screenplay_style div.page_toc,.screenplay_style nav.page_toc{border-bottom-left-radius:10px;border-bottom:black solid 3px;border-left:black solid 3px;clear:right;float:right;font-size:85%;margin-left:1em;max-width:25em;padding-bottom:0.5em;padding-left:0.5em;width:27%}
 .side_toc div.page_toc li,.side_toc div.page_toc ul,.side_toc nav.page_toc li,.side_toc nav.page_toc ul,.screenplay_style div.page_toc li,.screenplay_style div.page_toc ul,.screenplay_style nav.page_toc li,.screenplay_style nav.page_toc ul{margin-left:0;margin-right:0;padding-left:0;padding-right:0}
@@ -107,16 +101,12 @@ img.rindolf{float:right;margin:0 2em}
 .lim_width iframe{max-width:99%;height:auto}
 img.max_width{max-width:99%;height:auto}
 img.max_width.h6{float:right;margin:0.3em}
-#navbar img{max-width:200px;height:auto}
-#navbar iframe{max-width:99%;height:auto}
 .code_block pre{border:thin black solid;padding:1em;background-color:white}
 .oflow_test{overflow:auto}
 #header{padding-top:80px}
 .banner{height:80px}
 pre{overflow-wrap:break-word;text-align:justify;direction:ltr;overflow:auto}
 body #container-all{display:grid;grid-template-columns:repeat(5, 3fr);position:relative}
-body #navbar{grid-row:2;grid-column:1}
-body #navbar.novis{display:none}
 #faux{background-color:white;}
 body{margin:0;padding:0}
 @media (max-width: 991px){body.overflow_all *{overflow:auto}
