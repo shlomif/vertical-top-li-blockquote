@@ -154,13 +154,6 @@ body.self_link h1:hover .selfl a,body.self_link h2:hover .selfl a,body.self_link
 .sub_menu ul.nm_main ul{background:url("./images/vline.png") repeat-y scroll 0 0 transparent;list-style-type:none;margin:0;padding:0;margin-left:10px}
 .sub_menu ul.nm_main li{background:url("./images/node.png") no-repeat scroll 0 0 transparent;color:#336699;font-weight:bold;line-height:20px;margin:0;padding:0 12px}
 .sub_menu ul.nm_main li:last-child{background:url("./images/lastnode.png") no-repeat scroll 0 0 silver}
-footer,.footer,#footer{color:white;font-family:Verdana, Geneva, sans-serif;clear:both;padding:1em}
-footer a,.footer a,#footer a{color:#ff8800;text-decoration:underline;font-weight:bold}
-footer hr,.footer hr,#footer hr{width:100%;clear:both}
-footer ul,.footer ul,#footer ul{margin-left:auto;margin-right:auto;text-align:center;margin-bottom:1em}
-footer ul li,.footer ul li,#footer ul li{display:inline-block;margin-left:0.2em;padding-left:.5em;padding-right:.5em;border-left:white solid 1px}
-footer ul li:first-child,.footer ul li:first-child,#footer ul li:first-child{border-left-color:transparent}
-footer p,.footer p,#footer p{clear:left}
 .oflow_test{overflow:auto}
 #header{padding-top:80px}
 .sub_menu{background-color:#c0c0c0;padding-top:20pt;padding-bottom:3em;padding-left:10pt;padding-right:10pt;border-radius:10px;margin-bottom:1em}
