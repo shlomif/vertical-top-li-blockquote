@@ -65,10 +65,6 @@ blockquote{border:grey thin solid;padding:0.5em;margin-left:0.5em;}
 .sub_section{margin-left:3em}
 .art_logo.better_scm{border:5pt green solid;margin-bottom:1em;border-radius:3pt}
 .hebrew .page_toc{clear:left}
-.side_toc div.page_toc,.side_toc nav.page_toc,.screenplay_style div.page_toc,.screenplay_style nav.page_toc{border-bottom-left-radius:10px;border-bottom:black solid 3px;border-left:black solid 3px;clear:right;float:right;font-size:85%;margin-left:1em;max-width:25em;padding-bottom:0.5em;padding-left:0.5em;width:27%}
-.side_toc div.page_toc li,.side_toc div.page_toc ul,.side_toc nav.page_toc li,.side_toc nav.page_toc ul,.screenplay_style div.page_toc li,.screenplay_style div.page_toc ul,.screenplay_style nav.page_toc li,.screenplay_style nav.page_toc ul{margin-left:0;margin-right:0;padding-left:0;padding-right:0}
-.side_toc div.page_toc ul,.side_toc nav.page_toc ul,.screenplay_style div.page_toc ul,.screenplay_style nav.page_toc ul{margin-left:1em;margin-right:1em}
-.side_toc div.page_toc a,.side_toc nav.page_toc a,.screenplay_style div.page_toc a,.screenplay_style nav.page_toc a{word-break:normal}
 .cv_highlights{font-size:120%}
 
 h2.facts,h2#facts,h3.facts,h3#facts{clear:both}
@@ -88,7 +84,6 @@ img.rindolf{float:right;margin:0 2em}
 .lim_width iframe{max-width:99%;height:auto}
 img.max_width{max-width:99%;height:auto}
 img.max_width.h6{float:right;margin:0.3em}
-.code_block pre{border:thin black solid;padding:1em;background-color:white}
 #header{padding-top:80px}
 .banner{height:80px}
 pre{overflow-wrap:break-word;text-align:justify;direction:ltr;overflow:auto}
