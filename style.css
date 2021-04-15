@@ -79,7 +79,6 @@ ol.plain{list-style:none}
 .small{font-size:0.8em}
 .no-underline{text-decoration:none}
 img.rindolf{float:right;margin:0 2em}
-.evilphish{border:0;float:right;margin:0.5em;max-width:70%}
 *:focus{outline:red solid 2px}
 .lim_width iframe{max-width:99%;height:auto}
 img.max_width{max-width:99%;height:auto}
