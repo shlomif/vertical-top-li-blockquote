@@ -73,14 +73,6 @@ blockquote{border:grey thin solid;padding:0.5em;margin-left:0.5em;}
 .side_toc div.page_toc a,.side_toc nav.page_toc a,.screenplay_style div.page_toc a,.screenplay_style nav.page_toc a{word-break:normal}
 .cv_highlights{font-size:120%}
 
-section.fancy_sects{margin-bottom:2em;margin-top:2em;margin-left:0.5em;padding-left:1em;border-left:black solid 3px;padding-bottom:.3em;padding-top:.3em}
-section.fancy_sects:hover{border-left-color:#555555}
-section.fancy_sects>p:last-child,section.fancy_sects>ul:last-child>li:last-child>p:last-child,section.fancy_sects>ol:last-child>li:last-child>p:last-child{padding-bottom:1em}
-.fancy_sects section,.fancy_sects .sub_section{margin-bottom:2em;margin-top:2em;margin-left:0.5em;padding-left:1em;border-left:black solid 3px;padding-bottom:.3em;padding-top:.3em}
-.fancy_sects section:hover,.fancy_sects .sub_section:hover{border-left-color:#555555}
-.fancy_sects section>p:last-child,.fancy_sects section>ul:last-child>li:last-child>p:last-child,.fancy_sects section>ol:last-child>li:last-child>p:last-child,.fancy_sects .sub_section>p:last-child,.fancy_sects .sub_section>ul:last-child>li:last-child>p:last-child,.fancy_sects .sub_section>ol:last-child>li:last-child>p:last-child{padding-bottom:1em}
-.fancy_sects li{margin-left:0;padding-left:0}
-.fancy_sects ol,.fancy_sects ul{margin-left:2em;padding-left:0}
 h2.facts,h2#facts,h3.facts,h3#facts{clear:both}
 .facts_sources>header{clear:both}
 .markdown img{margin:1em}
@@ -88,7 +80,6 @@ h2.facts,h2#facts,h3.facts,h3#facts{clear:both}
 .limit_imgs_width pre,.lim_width pre{overflow:auto}
 @media (max-width: 991px){.limit_imgs_width.my_rpf .page_toc *,.lim_width.my_rpf .page_toc *{overflow:hidden}
 }
-.lim_width .dnd_cartoon{margin-bottom:1.5em}
 h2.puz_sol{margin-top:50em}
 ol.plain{list-style:none}
 .small{font-size:0.8em}
