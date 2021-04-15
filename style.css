@@ -15,10 +15,6 @@ table.cv td{vertical-align:top}
 .faq header a.indiv_node,.indiv_nodes_wrapper header a.indiv_node,.screenplay header a.indiv_node{padding:0.3em;float:right}
 .faq header a.indiv_node:after,.indiv_nodes_wrapper header a.indiv_node:after,.screenplay header a.indiv_node:after{content:" ]"}
 .faq header a.indiv_node:before,.indiv_nodes_wrapper header a.indiv_node:before,.screenplay header a.indiv_node:before{content:"[ "}
-a.back_to_faq{padding:0.3em;float:right}
-a.back_to_faq:after{content:" ]"}
-a.back_to_faq:before{content:"[ "}
-:link:hover,:visited:hover,img.highlight:hover,.nav_links img:hover,.bk2hp:hover,.patreon:hover{background-color:#90ee90}
 .navbar.novis{display:none;grid-column:0 / 0}
 #nav_menu>ul{padding-left:0;margin-left:0.3em}
 #nav_menu>ul ul{padding-left:0;margin-left:1.5em}
@@ -70,15 +66,6 @@ p.desc{margin-left:3em}
 table.visible,.visible>table{border:#286 medium solid}
 .visible td{border:#689 thin solid;padding:0.2em 0.2em 1em 0.2em;vertical-align:top}
 .visible th{border:#689 thin solid;font-weight:bold;padding:0.2em 0.2em 1em 0.2em;vertical-align:top}
-.prod_cat,.prod,.prod_set{margin-left:1em}
-.prod,.prod_set{border:transparent 1.5pt solid;margin-bottom:1em;margin-right:1em;margin-top:1em;padding:1em}
-.prod:hover,.prod_set:hover{border-color:#006000;background-color:#fff5e8}
-.prod .head{display:inline-table}
-.prod_img{vertical-align:top;display:table-cell}
-.prod_img img{border-width:0}
-.prod_title{vertical-align:top;display:table-cell;padding-top:1em}
-.prod_set .head ul{list-style-type:none;margin-left:0;padding-left:0}
-.prod_set .head li{margin-bottom:0.5em}
 .article h4,.article h5,.article h6{margin-top:8pt;margin-bottom:0.7cm}
 .article h2{text-decoration:underline}
 .article h3{text-decoration:underline}
@@ -147,8 +134,6 @@ h2.facts,h2#facts,h3.facts,h3#facts{clear:both}
 .limit_imgs_width pre,.lim_width pre{overflow:auto}
 @media (max-width: 991px){.limit_imgs_width.my_rpf .page_toc *,.lim_width.my_rpf .page_toc *{overflow:hidden}
 }
-.math_illus{float:right;margin-bottom:0.5em;margin-left:0.5em}
-.math_angels{margin-bottom:1em;margin-top:1em;width:90%}
 .lim_width .dnd_cartoon{margin-bottom:1.5em}
 img[alt="Creative Commons Licence"]{border-width:0}
 .film_casts h3,.film_casts div.cl{clear:right}
