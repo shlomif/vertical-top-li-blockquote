@@ -16,8 +16,6 @@ div.bordered,section.bordered{border:solid green medium;margin-top:1em;overflow:
 .hide{display:none}
 .hebrew{direction:rtl;padding-right:0.75cm;text-align:right}
 .english{direction:ltr;font-family:Helvetica, sans-serif;text-align:left}
-.hilight .l,p.hilight{font-size:x-large}
-.hilight dd{margin-bottom:0.5em;margin-top:0.5em}
 p.desc{margin-left:3em}
 .invisible,.invisible a{height:1px;left:-10000px;overflow:hidden;position:absolute;top:auto;width:1px}
 .invisible:focus,.invisible a:focus{height:auto;position:static;width:auto}
