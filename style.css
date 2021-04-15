@@ -24,9 +24,6 @@ blockquote{border:grey thin solid;padding:0.5em;margin-left:0.5em;}
 #disqus_thread{clear:right}
 .rfloaty{float:right;margin:1em}
 .rfloaty.h{height:100px}
-.graphic_designs .design{border:2pt solid black;margin-bottom:2em;margin-left:2em;margin-right:2em;padding:1em;overflow:hidden;border-radius:5px}
-.graphic_designs .design:hover{border-color:grey}
-.thumb{border:3pt double black;margin-left:3em;margin-right:3em;text-align:center;padding:0.3em;padding-top:1em;overflow:hidden}
 .articles_list p{margin-left:2em}
 .cc{border-width:0;margin-bottom:0.5em}
 .story [lang^="en"]{text-align:left;direction:ltr}
