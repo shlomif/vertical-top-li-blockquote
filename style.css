@@ -1,4 +1,4 @@
-﻿body{font-family:Arial, Sans-Serif}
+﻿body{font-family:Arial, Sans-Serif;}
 table.cv{width:100%;border:none}
 table.cv td{vertical-align:top}
 .main_text{clear:left}
@@ -171,15 +171,12 @@ footer p,.footer p,#footer p{clear:left}
 .sub_menu .nav_links img:hover,.sub_menu .nav_links a{background:transparent}
 .banner{height:80px}
 pre{overflow-wrap:break-word;text-align:justify;direction:ltr;overflow:auto}
-body{background:#01698f;padding:1em}
 body #container-all{display:grid;grid-template-columns:repeat(5, 3fr);position:relative}
 body #main{grid-column:2 / 6;grid-row:2}
 body #main.novis{grid-column:1 / 6}
 body #navbar{grid-row:2;grid-column:1}
 body #navbar.novis{display:none}
 #faux{background-color:white;}
-.facts_lists_list section.facts::after{display:block;content:"";clear:left}
 body{margin:0;padding:0}
 @media (max-width: 991px){body.overflow_all *{overflow:auto}
 }
-.nav_blocks .ext{background-image:url(./images/external-link-ltr-icon.min.svg);background-position:center right;background-repeat:no-repeat;padding-right:13px}
