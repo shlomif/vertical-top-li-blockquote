@@ -89,8 +89,6 @@ h2.facts,h2#facts,h3.facts,h3#facts{clear:both}
 @media (max-width: 991px){.limit_imgs_width.my_rpf .page_toc *,.lim_width.my_rpf .page_toc *{overflow:hidden}
 }
 .lim_width .dnd_cartoon{margin-bottom:1.5em}
-img[alt="Creative Commons Licence"]{border-width:0}
-.film_casts h3,.film_casts div.cl{clear:right}
 h2.puz_sol{margin-top:50em}
 ol.plain{list-style:none}
 .small{font-size:0.8em}
@@ -102,7 +100,6 @@ img.rindolf{float:right;margin:0 2em}
 img.max_width{max-width:99%;height:auto}
 img.max_width.h6{float:right;margin:0.3em}
 .code_block pre{border:thin black solid;padding:1em;background-color:white}
-.oflow_test{overflow:auto}
 #header{padding-top:80px}
 .banner{height:80px}
 pre{overflow-wrap:break-word;text-align:justify;direction:ltr;overflow:auto}
