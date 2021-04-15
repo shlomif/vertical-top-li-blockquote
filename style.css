@@ -2,15 +2,10 @@
 table.cv{width:100%;border:none}
 table.cv td{vertical-align:top}
 .news_item,.indent{margin-left:3em}
-div.rightalign{text-align:right}
 ul.noindent{margin-left:0}
 .center{text-align:center}
 table.center{margin-left:auto;margin-right:auto}
-.note{border-color:black;border-style:double;border-width:medium;padding:0.5em;background-color:#dfd;margin-top:1em;overflow:hidden}
-.note h2{background:transparent}
-div.bordered,section.bordered{border:solid green medium;margin-top:1em;overflow:hidden;padding:0.5em}
 .bless{border:none}
-#sect_menu_wrapper.novis{display:none}
 .hide{display:none}
 .hebrew{direction:rtl;padding-right:0.75cm;text-align:right}
 .english{direction:ltr;font-family:Helvetica, sans-serif;text-align:left}
@@ -18,23 +13,15 @@ p.desc{margin-left:3em}
 .invisible,.invisible a{height:1px;left:-10000px;overflow:hidden;position:absolute;top:auto;width:1px}
 .invisible:focus,.invisible a:focus{height:auto;position:static;width:auto}
 blockquote{border:grey thin solid;padding:0.5em;margin-left:0.5em;}
-.fortune blockquote{display:block}
-#disqus_thread{clear:right}
-.rfloaty{float:right;margin:1em}
-.rfloaty.h{height:100px}
-.articles_list p{margin-left:2em}
 .cc{border-width:0;margin-bottom:0.5em}
 .story [lang^="en"]{text-align:left;direction:ltr}
 .aphorisms blockquote{margin-left:3em}
 .sub_section{margin-left:3em}
-.art_logo.better_scm{border:5pt green solid;margin-bottom:1em;border-radius:3pt}
 .hebrew .page_toc{clear:left}
 h2.facts,h2#facts,h3.facts,h3#facts{clear:both}
 ol.plain{list-style:none}
 .small{font-size:0.8em}
 *:focus{outline:red solid 2px}
-img.max_width{max-width:99%;height:auto}
-img.max_width.h6{float:right;margin:0.3em}
 #header{padding-top:80px}
 body #container-all{display:grid;grid-template-columns:repeat(5, 3fr);position:relative}
 #faux{background-color:white;}
